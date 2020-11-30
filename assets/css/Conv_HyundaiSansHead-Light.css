@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'Conv_HyundaiSansHead-Light';
+	src: url(../../assets/fonts/HyundaiSansHead-Light.eot) format('embedded-opentype'),
+	url(../../assets/fonts/HyundaiSansHead-Light.woff) format('woff'),
+	url(../../assets/fonts/HyundaiSansHead-Light.ttf) format('truetype'),
+	url(../../assets/fonts/HyundaiSansHead-Light.svg) format('svg');
+	font-weight: normal;
+	font-style: normal;
+}

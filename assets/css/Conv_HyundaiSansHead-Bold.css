@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'Conv_HyundaiSansHead-Bold';
+	src: url(../../assets/fonts/HyundaiSansHead-Bold.eot) format('embedded-opentype'),
+	url(../../assets/fonts/HyundaiSansHead-Bold.woff) format('woff'),
+	url(../../assets/fonts/HyundaiSansHead-Bold.ttf) format('truetype'),
+	url(../../assets/fonts/HyundaiSansHead-Bold.svg) format('svg');
+	font-weight: normal;
+	font-style: normal;
+}

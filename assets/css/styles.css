@@ -1,0 +1,42 @@
+section .Booknow {
+  background-color: #01346b;
+  color: white;
+  padding: 10px 15px;
+  border-radius: 0;
+  border-color: #01346b;
+}
+
+section #mybutton {
+  position: fixed;
+  bottom: 110px;
+  right: -10px;
+}
+
+@media (min-width: 300px) {
+  section #mybutton {
+    width: 90px;
+    height: 45px;
+    font-size: 8.6px;
+    position: fixed;
+    padding-left: 10px;
+  }
+}
+
+.btn.btn-primary.border.rounded-0 {
+  position: fixed;
+  bottom: 110px;
+  right: 0px;
+  width: 80px;
+  height: 29px;
+}
+
+.alert{
+  text-align: center;
+  font-size:10px;
+  padding:10px;
+  background:#79c879;
+  color:#fff;
+  margin-bottom:10px;
+  display:none;
+  width: fit-content;
+}
